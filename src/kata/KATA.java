@@ -18,15 +18,15 @@ public class KATA {
     public static void main(String[] args) {
         System.out.println("Hola");
 
-     //   Person p1;
-     //   Date f;
-     //   f = new Date(64, 7, 3);
+        Person p1;
+        Date f;
+        f = new Date(64, 7, 3);
 
 
-       // p1 = new Person("Enrique", "Ramon", f);
-       // System.out.println(p1.getFullName());
-       // System.out.println(p1.getBirthdyy());
-       // System.out.println(p1.getAge());
+        p1 = new Person("Enrique", "Ramon", f);
+        System.out.println(p1.getFullName());
+        System.out.println(p1.getBirthdyy());
+        System.out.println(p1.getAge());
         System.out.println("Fin");
 
     }
